@@ -15,6 +15,8 @@ online food ordering and table reservation to their customers.
 
 ![screenshot](https://tastyigniter.com/images/mockups/Menus-v2.png)
 
+https://www.youtube.com/watch?v=NlTXvrwxbAU&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=2
+
 ### Documentation
 The best place to learn TastyIgniter is by reading the [documentation](https://tastyigniter.com/docs)
 
